@@ -481,23 +481,23 @@ img {
 }
 
 .skills__python {
-  width: 60%;
+  width: 80%;
 }
 
-.skills__matlab {
-  width: 80%;
+.skills__sql {
+  width: 70%;
 }
 
 .skills__word {
-  width: 80%;
+  width: 100%;
 }
 
 .skills__excel {
   width: 80%;
 }
 
-.skills__autocad {
-  width: 70%;
+.skills__powerbi {
+  width: 80%;
 }
 
 .skills__espg {
